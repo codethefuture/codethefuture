@@ -1,5 +1,8 @@
 # tl;dr
 
+[![github](https://img.shields.io/github/followers/codethefuture?label=Follow%20%40codethefuture&style=social)](https://github.com/codethefuture)
+[![twitter](https://img.shields.io/twitter/follow/codethefuture?style=social)](https://twitter.com/codethefuture)
+
 ![codethefuture's github stats](https://github-readme-stats.vercel.app/api?username=codethefuture&count_private=true&show_icons=true&theme=monokai)
 
 
