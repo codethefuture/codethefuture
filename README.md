@@ -4,7 +4,7 @@
 [![twitter](https://img.shields.io/twitter/follow/codethefuture?style=social)](https://twitter.com/codethefuture)
 
 ![codethefuture's github stats](https://github-readme-stats.vercel.app/api?username=codethefuture&count_private=true&show_icons=true&theme=monokai)
-![codethefuture's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=codethefuture&hide=perl,vimscript)
+![codethefuture's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=codethefuture&hide=perl,Vim+scrip)
 
 
 # Skills
