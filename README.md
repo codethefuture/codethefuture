@@ -8,10 +8,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zizi4n5&count_private=true&show_icons=true" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5&layout=compact)	</a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=codethefuture&count_private=true&show_icons=true" />
+</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codethefuture" />
 </a>
 
 # Skills
