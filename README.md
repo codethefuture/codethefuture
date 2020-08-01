@@ -1,3 +1,8 @@
+# tl;dr
+
+![codethefuture's github stats](https://github-readme-stats.vercel.app/api?username=codethefuture&count_private=true&show_icons=true&theme=monokai)
+
+
 # Skills
 
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby)
