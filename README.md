@@ -6,14 +6,6 @@
 ![codethefuture's github stats](https://github-readme-stats.vercel.app/api?username=codethefuture&count_private=true&show_icons=true&theme=monokai) 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=codethefuture&hide=perl,Vim+script&theme=monokai)
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=codethefuture&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codethefuture" />
-</a>
-
 # Skills
 
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby)
