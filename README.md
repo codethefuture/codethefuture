@@ -20,6 +20,15 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+# interest
+
+- 
+
+# Contact
+
+
+[![Linkedin](https://img.shields.io/badge/-codethefuture-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/codethefuture/ "Connect on LinkedIn")
+[![Twitter](https://img.shields.io/badge/-@codethefuture-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/codethefuture "Follow on Twitter")
 
 <!--
 **codethefuture/codethefuture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
